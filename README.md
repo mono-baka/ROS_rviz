@@ -1,10 +1,10 @@
 # 自作したロボットをRvizで表示
 ## 準備
-catkin_ws/src以下にgit clone　
-packageをビルドする　
+catkin_ws/src以下にgit clone 
+packageをビルドする 
 current directoryをcatkin_ws/srcにしてターミナルで 
 catkin_create_pkg ROS_rviz std_msg rospy roscpp tf 
-を実行
+を実行 
 ![](/img/ddd.png) 
 xmlとtxtファイルが作られる 
 
